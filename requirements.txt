@@ -1,0 +1,8 @@
+Flask-Cors==3.0.10
+ultralytics
+Pillow==8.4.0
+Flask==2.1.0
+Werkzeug==2.0.3
+gradio==3.27.0
+httpx==0.24.0
+httpcore==0.17.0
